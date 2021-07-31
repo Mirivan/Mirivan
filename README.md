@@ -1,10 +1,9 @@
 ## Hello there and more.
 
 ```python
-def main() {
+def main():
     for i in range(64):
         print('oOooooOooOo')
-}
 ```
 ```java
 package fk.mirivan.su;
